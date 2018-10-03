@@ -1,0 +1,4 @@
+With so many C programming textbooks to choose from, it can be hard to find one that's engaging and readable. The first edition of C Programming: A Modern Approach was a hit with instructors and students alike because of its clarity and comprehensiveness as well as its trademark Q&A sections. The book's spiral approach made the first edition accessible to a broad range of readers, from beginners to more advanced students. The first edition was used at over 225 colleges, making it one of the leading C textbooks of the last ten years. It was also popular among software developers, engineers, and other professionals who use C on the job.
+
+- Programs from the book: [browse](http://knking.com/books/c2/programs/index.html) or [download zip file](http://knking.com/books/c2/cprogs2.zip)
+- [Answers](http://knking.com/books/c2/answers/index.html) to selected exercises and programming projects 
